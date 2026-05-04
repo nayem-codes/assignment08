@@ -1,66 +1,66 @@
 [
   {
     "id": 1,
-    "title": "The Silent Forest",
+    "title": "Lost in Wonder",
     "author": "Ava Rahman",
     "description": "A mysterious tale of a village surrounded by a forest where no sound exists.",
     "category": "Story",
     "available_quantity": 12,
-    "image_url": "https://example.com/images/silent_forest.jpg"
+    "image_url": "https://i.pinimg.com/736x/c8/c2/57/c8c25746d1482710e6edc4af9349e561.jpg"
   },
   {
     "id": 2,
-    "title": "Mastering JavaScript",
+    "title": "Beyond The Algorithm",
     "author": "Liam Chen",
     "description": "A comprehensive guide to modern JavaScript, from basics to advanced concepts.",
     "category": "Tech",
     "available_quantity": 8,
-    "image_url": "https://example.com/images/mastering_js.jpg"
+    "image_url": "https://i.pinimg.com/736x/60/3f/57/603f57a9d69aa5b06e27be108a03cd65.jpg"
   },
   {
     "id": 3,
-    "title": "Journey to Mars",
+    "title": "The Edge Of Mars",
     "author": "Elena Cruz",
     "description": "An exciting exploration of humanity’s future mission to colonize Mars.",
     "category": "Science",
     "available_quantity": 5,
-    "image_url": "https://example.com/images/journey_mars.jpg"
+    "image_url": "https://i.pinimg.com/736x/d0/e6/89/d0e689ff92b40caabb992b58d26c8d6f.jpg"
   },
   {
     "id": 4,
-    "title": "The Last Letter",
+    "title": "The Adventures Of Charlie",
     "author": "Noah Karim",
     "description": "A heartfelt story about love, loss, and the power of written words.",
     "category": "Story",
     "available_quantity": 10,
-    "image_url": "https://example.com/images/last_letter.jpg"
+    "image_url": "https://i.pinimg.com/736x/17/b9/da/17b9da6aa1eaac3db81b287c832c30cd.jpg"
   },
   {
     "id": 5,
-    "title": "React in Action",
+    "title": "The Dark Code",
     "author": "Sophia Malik",
     "description": "Learn how to build dynamic web applications using React and modern tools.",
     "category": "Tech",
     "available_quantity": 7,
-    "image_url": "https://example.com/images/react_action.jpg"
+    "image_url": "https://i.pinimg.com/736x/c9/e4/4b/c9e44bf4904fbc68838d443c6f628732.jpg"
   },
   {
     "id": 6,
-    "title": "Quantum Wonders",
+    "title": "Quantum Physics",
     "author": "Daniel Schmidt",
     "description": "An introduction to the fascinating world of quantum physics and its applications.",
     "category": "Science",
     "available_quantity": 6,
-    "image_url": "https://example.com/images/quantum_wonders.jpg"
+    "image_url": "https://i.pinimg.com/736x/b4/ed/c3/b4edc3bd8ab1d0d16dd64568e9fe5db4.jpg"
   },
   {
     "id": 7,
-    "title": "Midnight Train",
+    "title": "The Other Side",
     "author": "Fatima Noor",
     "description": "A suspenseful journey of strangers connected by a mysterious train ride.",
     "category": "Story",
     "available_quantity": 9,
-    "image_url": "https://example.com/images/midnight_train.jpg"
+    "image_url": "https://i.pinimg.com/1200x/00/c3/d1/00c3d1977d487c78ad2ce926dd047dc3.jpg"
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "description": "A beginner-friendly guide to learning Python programming quickly.",
     "category": "Tech",
     "available_quantity": 15,
-    "image_url": "https://example.com/images/python_simplified.jpg"
+    "image_url": "https://i.pinimg.com/564x/4c/9b/1e/4c9b1e7d3a6f2b8c5d9e1a7c3f6b2d4e.jpg"
   },
   {
     "id": 9,
@@ -78,25 +78,25 @@
     "description": "Discover how the human brain works and its incredible capabilities.",
     "category": "Science",
     "available_quantity": 11,
-    "image_url": "https://example.com/images/human_brain.jpg"
+    "image_url": "https://i.pinimg.com/1200x/d2/cd/61/d2cd61f943815f55780afe1ade6f84c4.jpg"
   },
   {
     "id": 10,
-    "title": "Shadows of the Past",
+    "title": "Lila",
     "author": "Hasan Mahmud",
     "description": "A gripping story uncovering secrets hidden for decades.",
     "category": "Story",
     "available_quantity": 4,
-    "image_url": "https://example.com/images/shadows_past.jpg"
+    "image_url": "https://i.pinimg.com/736x/8f/17/79/8f1779475264fa436c978b6eadf25f62.jpg"
   },
   {
     "id": 11,
-    "title": "AI Revolution",
+    "title": "Surviving AI",
     "author": "Grace Kim",
     "description": "An insightful look into artificial intelligence and its impact on the future.",
     "category": "Tech",
     "available_quantity": 13,
-    "image_url": "https://example.com/images/ai_revolution.jpg"
+    "image_url": "https://i.pinimg.com/736x/24/e7/ab/24e7abb1a08a2c8d8c61179c2765e3a1.jpg"
   },
   {
     "id": 12,
@@ -105,6 +105,6 @@
     "description": "Unravel the mysteries of the universe, from black holes to dark matter.",
     "category": "Science",
     "available_quantity": 6,
-    "image_url": "https://example.com/images/cosmic_mysteries.jpg"
+    "image_url": "https://i.pinimg.com/736x/f0/23/26/f02326a1ddb146b4ad96d16e8beccfcd.jpg"
   }
 ]
