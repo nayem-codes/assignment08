@@ -1,7 +1,7 @@
 import React from 'react';
 
 const BookDetailsPage = async ({ params }) => {
-    const [id] = await params;
+    const {id} = await params;
     const res = await fetch('http://localhost:3000/data.json')
     const photos = await res.json()
 

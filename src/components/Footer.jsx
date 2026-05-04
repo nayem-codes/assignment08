@@ -23,13 +23,13 @@ const Footer = () => {
           {/* Brand */}
           <div className="space-y-4">
             <div className="flex items-center gap-2">
-              <Image
+              {/* <Image
                 src="/logo.png"
                 alt="pixgen logo"
                 width={32}
                 height={32}
                 className="dark:brightness-200"
-              />
+              /> */}
               <h2 className="text-xl font-semibold tracking-tight text-black dark:text-white">
                 pixgen
               </h2>
