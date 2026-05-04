@@ -1,8 +1,8 @@
 import PhotoCard from '@/components/PhotoCard';
 import React from 'react';
 
-const AllPhotosPage = () => {
-    const res = await fetch('https://http://localhost:3000//data.json')
+const AllPhotosPage = async () => {
+    const res = await fetch('http://localhost:3000/data.json')
     const photos = await res.json()
     return (
         <div>
