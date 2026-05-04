@@ -2,7 +2,7 @@ import React from 'react';
 import PhotoCard from './PhotoCard';
 
 const TopBooks = async() => {
-    const res = await fetch('https://assignment08-sable.vercel.app/data.json')
+    const res = await fetch('http://localhost:3000/data.json')
 const photos = await res.json()
 const topBooks = photos.slice(0, 8);
     return (
