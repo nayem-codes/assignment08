@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "The Silent Forest",
+    "author": "Ava Rahman",
+    "description": "A mysterious tale of a village surrounded by a forest where no sound exists.",
+    "category": "Story",
+    "available_quantity": 12,
+    "image_url": "https://example.com/images/silent_forest.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Mastering JavaScript",
+    "author": "Liam Chen",
+    "description": "A comprehensive guide to modern JavaScript, from basics to advanced concepts.",
+    "category": "Tech",
+    "available_quantity": 8,
+    "image_url": "https://example.com/images/mastering_js.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Journey to Mars",
+    "author": "Elena Cruz",
+    "description": "An exciting exploration of humanity’s future mission to colonize Mars.",
+    "category": "Science",
+    "available_quantity": 5,
+    "image_url": "https://example.com/images/journey_mars.jpg"
+  },
+  {
+    "id": 4,
+    "title": "The Last Letter",
+    "author": "Noah Karim",
+    "description": "A heartfelt story about love, loss, and the power of written words.",
+    "category": "Story",
+    "available_quantity": 10,
+    "image_url": "https://example.com/images/last_letter.jpg"
+  },
+  {
+    "id": 5,
+    "title": "React in Action",
+    "author": "Sophia Malik",
+    "description": "Learn how to build dynamic web applications using React and modern tools.",
+    "category": "Tech",
+    "available_quantity": 7,
+    "image_url": "https://example.com/images/react_action.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Quantum Wonders",
+    "author": "Daniel Schmidt",
+    "description": "An introduction to the fascinating world of quantum physics and its applications.",
+    "category": "Science",
+    "available_quantity": 6,
+    "image_url": "https://example.com/images/quantum_wonders.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Midnight Train",
+    "author": "Fatima Noor",
+    "description": "A suspenseful journey of strangers connected by a mysterious train ride.",
+    "category": "Story",
+    "available_quantity": 9,
+    "image_url": "https://example.com/images/midnight_train.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Python Simplified",
+    "author": "Ethan Roy",
+    "description": "A beginner-friendly guide to learning Python programming quickly.",
+    "category": "Tech",
+    "available_quantity": 15,
+    "image_url": "https://example.com/images/python_simplified.jpg"
+  },
+  {
+    "id": 9,
+    "title": "The Human Brain",
+    "author": "Olivia Bennett",
+    "description": "Discover how the human brain works and its incredible capabilities.",
+    "category": "Science",
+    "available_quantity": 11,
+    "image_url": "https://example.com/images/human_brain.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Shadows of the Past",
+    "author": "Hasan Mahmud",
+    "description": "A gripping story uncovering secrets hidden for decades.",
+    "category": "Story",
+    "available_quantity": 4,
+    "image_url": "https://example.com/images/shadows_past.jpg"
+  },
+  {
+    "id": 11,
+    "title": "AI Revolution",
+    "author": "Grace Kim",
+    "description": "An insightful look into artificial intelligence and its impact on the future.",
+    "category": "Tech",
+    "available_quantity": 13,
+    "image_url": "https://example.com/images/ai_revolution.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Cosmic Mysteries",
+    "author": "Lucas Ferreira",
+    "description": "Unravel the mysteries of the universe, from black holes to dark matter.",
+    "category": "Science",
+    "available_quantity": 6,
+    "image_url": "https://example.com/images/cosmic_mysteries.jpg"
+  }
+]

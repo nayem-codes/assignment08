@@ -1,0 +1,74 @@
+[
+  {
+    "title": "The Silent Forest",
+    "author": "Ava Rahman",
+    "description": "A mysterious tale of a village surrounded by a forest where no sound exists.",
+    "available_quantity": "12 copies left"
+  },
+  {
+    "title": "Mastering JavaScript",
+    "author": "Liam Chen",
+    "description": "A comprehensive guide to modern JavaScript, from basics to advanced concepts.",
+    "available_quantity": "8 copies left"
+  },
+  {
+    "title": "Journey to Mars",
+    "author": "Elena Cruz",
+    "description": "An exciting exploration of humanity’s future mission to colonize Mars.",
+    "available_quantity": "5 copies left"
+  },
+  {
+    "title": "The Last Letter",
+    "author": "Noah Karim",
+    "description": "A heartfelt story about love, loss, and the power of written words.",
+    "available_quantity": "10 copies left"
+  },
+  {
+    "title": "React in Action",
+    "author": "Sophia Malik",
+    "description": "Learn how to build dynamic web applications using React and modern tools.",
+    "available_quantity": "7 copies left"
+  },
+  {
+    "title": "Quantum Wonders",
+    "author": "Daniel Schmidt",
+    "description": "An introduction to the fascinating world of quantum physics and its applications.",
+    "available_quantity": "6 copies left"
+  },
+  {
+    "title": "Midnight Train",
+    "author": "Fatima Noor",
+    "description": "A suspenseful journey of strangers connected by a mysterious train ride.",
+    "available_quantity": "9 copies left"
+  },
+  {
+    "title": "Python Simplified",
+    "author": "Ethan Roy",
+    "description": "A beginner-friendly guide to learning Python programming quickly.",
+    "available_quantity": "15 copies left"
+  },
+  {
+    "title": "The Human Brain",
+    "author": "Olivia Bennett",
+    "description": "Discover how the human brain works and its incredible capabilities.",
+    "available_quantity": "11 copies left"
+  },
+  {
+    "title": "Shadows of the Past",
+    "author": "Hasan Mahmud",
+    "description": "A gripping story uncovering secrets hidden for decades.",
+    "available_quantity": "4 copies left"
+  },
+  {
+    "title": "AI Revolution",
+    "author": "Grace Kim",
+    "description": "An insightful look into artificial intelligence and its impact on the future.",
+    "available_quantity": "13 copies left"
+  },
+  {
+    "title": "Cosmic Mysteries",
+    "author": "Lucas Ferreira",
+    "description": "Unravel the mysteries of the universe, from black holes to dark matter.",
+    "available_quantity": "6 copies left"
+  }
+]
